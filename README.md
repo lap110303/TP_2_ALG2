@@ -1,1 +1,15 @@
 # TP_2_ALG2
+
+Por conta da diferença de arquivos referentes aos testes, gerei main.py para os testes low-dimensional e main_large.py para os testes large-scale.
+
+Instâncias low-dimensional
+exemplo testado por meio do comando:
+python main.py testes/low-dimensional/low-dimensional-entrada/f1_l-d_kp_10_269 0.05
+
+Instâncias large-scale
+exemplo testado por meio do comando:
+python main_large.py testes/large-scale/knapPI_1_500_1000_1_items.csv testes/large-scale/knapPI_1_500_1000_1_info.csv 0.05
+
+o valor final é referente ao ε no FPTAS, como o vimieiro não especificou, estou usando 0.05
+
+os resultados obtidos foram colocados no resultados.txt
