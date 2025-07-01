@@ -70,6 +70,18 @@ Branch-and-Bound: Valor = 28857.0, Tempo = 0.000850s
 FPTAS (ε=0.05): Valor = 28854, Tempo = 69.122233s
 2-aproximativo: Valor = 28834.0, Tempo = 0.000350s
 
+Teste Instância 1, com e = 1.00
+--- Executando instância grande CSV: testes/large-scale/knapPI_1_500_1000_1_items.csv + testes/large-scale/knapPI_1_500_1000_1_info.csv ---
+Branch-and-Bound: Valor = 28857.0, Tempo = 0.003377s
+FPTAS (ε=1.0): Valor = 28810, Tempo = 16.487699s
+2-aproximativo: Valor = 28834.0, Tempo = 0.000654s
+
+Teste Instância 2, com e = 2.00
+--- Executando instância grande CSV: testes/large-scale/knapPI_1_500_1000_1_items.csv + testes/large-scale/knapPI_1_500_1000_1_info.csv ---
+Branch-and-Bound: Valor = 28857.0, Tempo = 0.003392s
+FPTAS (ε=2.0): Valor = 28770, Tempo = 8.239362s
+2-aproximativo: Valor = 28834.0, Tempo = 0.000647s
+
 Teste 2:
 --- Executando instância grande CSV: testes/large-scale/knapPI_2_500_1000_1_items.csv + testes/large-scale/knapPI_2_500_1000_1_info.csv ---
 Branch-and-Bound: Valor = 4566.0, Tempo = 0.000563s
