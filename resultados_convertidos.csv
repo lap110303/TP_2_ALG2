@@ -1,0 +1,43 @@
+instancia,tipo,algoritmo,valor,tempo,memoria_kb
+f1_l-d_kp_10_269,low-dimensional,Branch-and-Bound,295.0,0.000264,1.99
+f1_l-d_kp_10_269,low-dimensional,FPTAS (ε=0.2),288.0,0.000929,4.69
+f1_l-d_kp_10_269,low-dimensional,2-aproximativo,294.0,2.7e-05,0.38
+f2_l-d_kp_20_878,low-dimensional,Branch-and-Bound,1024.0,0.000887,5.13
+f2_l-d_kp_20_878,low-dimensional,FPTAS (ε=0.2),1016.0,0.05348,32.89
+f2_l-d_kp_20_878,low-dimensional,2-aproximativo,1018.0,5.5e-05,0.45
+f3_l-d_kp_4_20,low-dimensional,Branch-and-Bound,35.0,0.000101,1.08
+f3_l-d_kp_4_20,low-dimensional,FPTAS (ε=0.2),34.0,8e-05,0.75
+f3_l-d_kp_4_20,low-dimensional,2-aproximativo,35.0,3.9e-05,0.3
+f4_l-d_kp_4_11,low-dimensional,Branch-and-Bound,23.0,0.000181,1.06
+f4_l-d_kp_4_11,low-dimensional,FPTAS (ε=0.2),22.0,8.4e-05,0.66
+f4_l-d_kp_4_11,low-dimensional,2-aproximativo,16.0,3.2e-05,0.3
+f5_l-d_kp_15_375,low-dimensional,Branch-and-Bound,481.069368,0.000303,2.09
+f5_l-d_kp_15_375,low-dimensional,FPTAS (ε=0.2),475.0,0.008222,10.66
+f5_l-d_kp_15_375,low-dimensional,2-aproximativo,481.069368,5.2e-05,0.38
+f6_l-d_kp_10_60,low-dimensional,Branch-and-Bound,52.0,0.001489,5.55
+f6_l-d_kp_10_60,low-dimensional,FPTAS (ε=0.2),51.0,0.000534,2.66
+f6_l-d_kp_10_60,low-dimensional,2-aproximativo,52.0,3.5e-05,0.38
+f7_l-d_kp_7_50,low-dimensional,Branch-and-Bound,107.0,0.000122,0.97
+f7_l-d_kp_7_50,low-dimensional,FPTAS (ε=0.2),106.0,0.000318,1.73
+f7_l-d_kp_7_50,low-dimensional,2-aproximativo,102.0,6.5e-05,0.32
+f8_l-d_kp_23_10000,low-dimensional,Branch-and-Bound,9767.0,27.506348,216999.84
+f8_l-d_kp_23_10000,low-dimensional,FPTAS (ε=0.2),9716.0,0.086557,24.72
+f8_l-d_kp_23_10000,low-dimensional,2-aproximativo,9753.0,8.4e-05,1.7
+f9_l-d_kp_5_80,low-dimensional,Branch-and-Bound,130.0,0.000103,1.02
+f9_l-d_kp_5_80,low-dimensional,FPTAS (ε=0.2),128.0,0.000167,1.31
+f9_l-d_kp_5_80,low-dimensional,2-aproximativo,130.0,3.5e-05,0.32
+f10_l-d_kp_20_879,low-dimensional,Branch-and-Bound,1025.0,0.000881,5.13
+f10_l-d_kp_20_879,low-dimensional,FPTAS (ε=0.2),1017.0,0.054672,32.95
+f10_l-d_kp_20_879,low-dimensional,2-aproximativo,1019.0,5.2e-05,0.45
+knapPI_1_500_1000_1_items.csv,large-scale,Branch-and-Bound,28857.0,0.004942,20.99
+knapPI_1_500_1000_1_items.csv,large-scale,FPTAS (ε=0.5),28832.0,261.622534,2620.0
+knapPI_1_500_1000_1_items.csv,large-scale,2-aproximativo,28834.0,0.001133,41.46
+knapPI_2_500_1000_1_items.csv,large-scale,Branch-and-Bound,4566.0,0.003276,16.44
+knapPI_2_500_1000_1_items.csv,large-scale,FPTAS (ε=0.5),4551.0,235.489236,1989.32
+knapPI_2_500_1000_1_items.csv,large-scale,2-aproximativo,4552.0,0.001187,41.46
+knapPI_3_500_1000_1_items.csv,large-scale,Branch-and-Bound,7117.0,1.486788,348.79
+knapPI_3_500_1000_1_items.csv,large-scale,FPTAS (ε=0.5),7091.0,273.786437,2324.55
+knapPI_3_500_1000_1_items.csv,large-scale,2-aproximativo,7098.0,0.001665,41.46
+knapPI_14_200_1000_1_items.csv,large-scale,Branch-and-Bound,5397.0,0.000965,4.99
+knapPI_14_200_1000_1_items.csv,large-scale,FPTAS (ε=0.5),5372.0,18.046668,401.2
+knapPI_14_200_1000_1_items.csv,large-scale,2-aproximativo,5397.0,0.000374,7.88

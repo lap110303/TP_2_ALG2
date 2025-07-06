@@ -2,63 +2,63 @@ Instâncias low-dimensional
 
 Teste 1:
 --- Executando instância: testes/low-dimensional/low-dimensional-entrada/f1_l-d_kp_10_269 ---
-Branch-and-Bound: Valor = 295, Tempo = 0.000064s
-FPTAS (ε=0.05): Valor = 293, Tempo = 0.000662s
-2-aproximativo: Valor = 294, Tempo = 0.000012s
+Branch-and-Bound: Valor = 295.0, Tempo = 0.000264s, Memória = 1.99 KB
+FPTAS (ε=0.2): Valor = 288, Tempo = 0.000929s, Memória = 4.69 KB
+2-aproximativo: Valor = 294.0, Tempo = 0.000027s, Memória = 0.38 KB
 
 Teste 2:
 --- Executando instância: testes/low-dimensional/low-dimensional-entrada/f2_l-d_kp_20_878 ---
-Branch-and-Bound: Valor = 1024, Tempo = 0.000145s
-FPTAS (ε=0.05): Valor = 1021, Tempo = 0.009862s
-2-aproximativo: Valor = 1018, Tempo = 0.000023s
+Branch-and-Bound: Valor = 1024.0, Tempo = 0.000887s, Memória = 5.13 KB
+FPTAS (ε=0.2): Valor = 1016, Tempo = 0.053480s, Memória = 32.89 KB
+2-aproximativo: Valor = 1018.0, Tempo = 0.000055s, Memória = 0.45 KB
 
 Teste 3:
 --- Executando instância: testes/low-dimensional/low-dimensional-entrada/f3_l-d_kp_4_20 ---
-Branch-and-Bound: Valor = 35, Tempo = 0.000024s
-FPTAS (ε=0.05): Valor = 34, Tempo = 0.000068s
-2-aproximativo: Valor = 35, Tempo = 0.000032s
+Branch-and-Bound: Valor = 35.0, Tempo = 0.000101s, Memória = 1.08 KB
+FPTAS (ε=0.2): Valor = 34, Tempo = 0.000080s, Memória = 0.75 KB
+2-aproximativo: Valor = 35.0, Tempo = 0.000039s, Memória = 0.30 KB
 
 Teste 4:
 --- Executando instância: testes/low-dimensional/low-dimensional-entrada/f4_l-d_kp_4_11 ---
-Branch-and-Bound: Valor = 23, Tempo = 0.000027s
-FPTAS (ε=0.05): Valor = 22, Tempo = 0.000078s
-2-aproximativo: Valor = 16, Tempo = 0.000010s
+Branch-and-Bound: Valor = 23.0, Tempo = 0.000181s, Memória = 1.06 KB
+FPTAS (ε=0.2): Valor = 22, Tempo = 0.000084s, Memória = 0.66 KB
+2-aproximativo: Valor = 16.0, Tempo = 0.000032s, Memória = 0.30 KB
 
 Teste 5:
 --- Executando instância: testes/low-dimensional/low-dimensional-entrada/f5_l-d_kp_15_375 ---
-Branch-and-Bound: Valor = 481.069368, Tempo = 0.000055s
-FPTAS (ε=0.05): Valor = 479, Tempo = 0.001596s
-2-aproximativo: Valor = 481.069368, Tempo = 0.000012s
+Branch-and-Bound: Valor = 481.069368, Tempo = 0.000303s, Memória = 2.09 KB
+FPTAS (ε=0.2): Valor = 475, Tempo = 0.008222s, Memória = 10.66 KB
+2-aproximativo: Valor = 481.069368, Tempo = 0.000052s, Memória = 0.38 KB
 
 Teste 6:
 --- Executando instância: testes/low-dimensional/low-dimensional-entrada/f6_l-d_kp_10_60 ---
-Branch-and-Bound: Valor = 52.0, Tempo = 0.000222s
-FPTAS (ε=0.05): Valor = 51, Tempo = 0.000546s
-2-aproximativo: Valor = 52.0, Tempo = 0.000029s
+Branch-and-Bound: Valor = 52.0, Tempo = 0.001489s, Memória = 5.55 KB
+FPTAS (ε=0.2): Valor = 51, Tempo = 0.000534s, Memória = 2.66 KB
+2-aproximativo: Valor = 52.0, Tempo = 0.000035s, Memória = 0.38 KB
 
 Teste 7:
 --- Executando instância: testes/low-dimensional/low-dimensional-entrada/f7_l-d_kp_7_50 ---
-Branch-and-Bound: Valor = 107.0, Tempo = 0.000029s
-FPTAS (ε=0.05): Valor = 107, Tempo = 0.000132s
-2-aproximativo: Valor = 102.0, Tempo = 0.000012s
+Branch-and-Bound: Valor = 107.0, Tempo = 0.000122s, Memória = 0.97 KB
+FPTAS (ε=0.2): Valor = 106, Tempo = 0.000318s, Memória = 1.73 KB
+2-aproximativo: Valor = 102.0, Tempo = 0.000065s, Memória = 0.32 KB
 
 Teste 8:
 --- Executando instância: testes/low-dimensional/low-dimensional-entrada/f8_l-d_kp_23_10000 ---
-Branch-and-Bound: Valor = 9767.0, Tempo = 7.189732s
-FPTAS (ε=0.05): Valor = 9754, Tempo = 0.010234s
-2-aproximativo: Valor = 9753.0, Tempo = 0.000041s
+Branch-and-Bound: Valor = 9767.0, Tempo = 27.506348s, Memória = 216999.84 KB
+FPTAS (ε=0.2): Valor = 9716, Tempo = 0.086557s, Memória = 24.72 KB
+2-aproximativo: Valor = 9753.0, Tempo = 0.000084s, Memória = 1.70 KB
 
 Teste 9:
 --- Executando instância: testes/low-dimensional/low-dimensional-entrada/f9_l-d_kp_5_80 ---
-Branch-and-Bound: Valor = 130.0, Tempo = 0.000026s
-FPTAS (ε=0.05): Valor = 129, Tempo = 0.000094s
-2-aproximativo: Valor = 130.0, Tempo = 0.000013s
+Branch-and-Bound: Valor = 130.0, Tempo = 0.000103s, Memória = 1.02 KB
+FPTAS (ε=0.2): Valor = 128, Tempo = 0.000167s, Memória = 1.31 KB
+2-aproximativo: Valor = 130.0, Tempo = 0.000035s, Memória = 0.32 KB
 
 Teste 10:
 --- Executando instância: testes/low-dimensional/low-dimensional-entrada/f10_l-d_kp_20_879 ---
-Branch-and-Bound: Valor = 1025.0, Tempo = 0.000132s
-FPTAS (ε=0.05): Valor = 1022, Tempo = 0.007037s
-2-aproximativo: Valor = 1019.0, Tempo = 0.000012s
+Branch-and-Bound: Valor = 1025.0, Tempo = 0.000881s, Memória = 5.13 KB
+FPTAS (ε=0.2): Valor = 1017, Tempo = 0.054672s, Memória = 32.95 KB
+2-aproximativo: Valor = 1019.0, Tempo = 0.000052s, Memória = 0.45 KB
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -66,36 +66,24 @@ Instâncias large_scale
 
 Teste 1:
 --- Executando instância grande CSV: testes/large-scale/knapPI_1_500_1000_1_items.csv + testes/large-scale/knapPI_1_500_1000_1_info.csv ---
-Branch-and-Bound: Valor = 28857.0, Tempo = 0.000850s
-FPTAS (ε=0.05): Valor = 28854, Tempo = 69.122233s
-2-aproximativo: Valor = 28834.0, Tempo = 0.000350s
-
-Teste Instância 1, com e = 1.00
---- Executando instância grande CSV: testes/large-scale/knapPI_1_500_1000_1_items.csv + testes/large-scale/knapPI_1_500_1000_1_info.csv ---
-Branch-and-Bound: Valor = 28857.0, Tempo = 0.003377s
-FPTAS (ε=1.0): Valor = 28810, Tempo = 16.487699s
-2-aproximativo: Valor = 28834.0, Tempo = 0.000654s
-
-Teste Instância 2, com e = 2.00
---- Executando instância grande CSV: testes/large-scale/knapPI_1_500_1000_1_items.csv + testes/large-scale/knapPI_1_500_1000_1_info.csv ---
-Branch-and-Bound: Valor = 28857.0, Tempo = 0.003392s
-FPTAS (ε=2.0): Valor = 28770, Tempo = 8.239362s
-2-aproximativo: Valor = 28834.0, Tempo = 0.000647s
+Branch-and-Bound: Valor = 28857.0, Tempo = 0.004942s, Memória = 20.99 KB
+FPTAS (ε=0.5): Valor = 28832, Tempo = 261.622534s, Memória = 2620.00 KB
+2-aproximativo: Valor = 28834.0, Tempo = 0.001133s, Memória = 41.46 KB
 
 Teste 2:
 --- Executando instância grande CSV: testes/large-scale/knapPI_2_500_1000_1_items.csv + testes/large-scale/knapPI_2_500_1000_1_info.csv ---
-Branch-and-Bound: Valor = 4566.0, Tempo = 0.000563s
-FPTAS (ε=0.05): Valor = 4564, Tempo = 61.254802s
-2-aproximativo: Valor = 4552.0, Tempo = 0.000233s
+Branch-and-Bound: Valor = 4566.0, Tempo = 0.003276s, Memória = 16.44 KB
+FPTAS (ε=0.5): Valor = 4551, Tempo = 235.489236s, Memória = 1989.32 KB
+2-aproximativo: Valor = 4552.0, Tempo = 0.001187s, Memória = 41.46 KB
 
 Teste 3:
 --- Executando instância grande CSV: testes/large-scale/knapPI_3_500_1000_1_items.csv + testes/large-scale/knapPI_3_500_1000_1_info.csv ---
-Branch-and-Bound: Valor = 7117.0, Tempo = 0.288843s
-FPTAS (ε=0.05): Valor = 7114, Tempo = 71.076427s
-2-aproximativo: Valor = 7098.0, Tempo = 0.000302s
+Branch-and-Bound: Valor = 7117.0, Tempo = 1.486788s, Memória = 348.79 KB
+FPTAS (ε=0.5): Valor = 7091, Tempo = 273.786437s, Memória = 2324.55 KB
+2-aproximativo: Valor = 7098.0, Tempo = 0.001665s, Memória = 41.46 KB
 
 Teste 4:
 --- Executando instância grande CSV: testes/large-scale/knapPI_14_200_1000_1_items.csv + testes/large-scale/knapPI_14_200_1000_1_info.csv ---
-Branch-and-Bound: Valor = 5397.0, Tempo = 0.000138s
-FPTAS (ε=0.05): Valor = 5394, Tempo = 4.500711s
-2-aproximativo: Valor = 5397.0, Tempo = 0.000189s
+Branch-and-Bound: Valor = 5397.0, Tempo = 0.000965s, Memória = 4.99 KB
+FPTAS (ε=0.5): Valor = 5372, Tempo = 18.046668s, Memória = 401.20 KB
+2-aproximativo: Valor = 5397.0, Tempo = 0.000374s, Memória = 7.88 KB
